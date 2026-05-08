@@ -14,7 +14,6 @@
 | | Lien |
 |--|--|
 | 🚀 **Dashboard Live** | [Ouvrir le Dashboard](https://smart-urban-mobility-predictor-lille-metro-v-lille-integration.streamlit.app/) |
-| 📓 **Notebook Colab** | [Ouvrir dans Google Colab](https://colab.research.google.com/drive/YOUR_COLAB_ID) |
 | 📊 **Données source** | [data.lillemetropole.fr](https://data.lillemetropole.fr) |
 
 ---
