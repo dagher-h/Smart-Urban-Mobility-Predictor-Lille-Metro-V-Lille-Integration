@@ -87,7 +87,7 @@ Ouvrir dans le navigateur : `http://localhost:8501`
 ```
 ├── app.py                        # Dashboard Streamlit
 ├── requirements.txt              # Dépendances Python
-├── models/
+├── model/
 │   ├── final_xgboost_model.pkl   # Modèle entraîné (XGBoost)
 │   └── feature_columns.pkl       # Liste des features
 └── v_lille_metro_clean.ipynb     # Notebook d'analyse complet
